@@ -1,2 +1,1 @@
-print 'Automation,Testing....'
-print 'Test file'
+print "Automation,Testing...."
